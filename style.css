@@ -1,0 +1,30 @@
+* {
+    overflow: hidden;
+    margin: 0;
+    font-size: medium;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  button {
+    height: 60px;
+    border-radius: 50px;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  nav {
+    text-align: center;
+    height: 80px;
+    border-bottom: solid 10px black;
+    background-color: firebrick;
+  }
+  
+  #container {
+    height: 100vh;
+    background-color: black;
+  }
